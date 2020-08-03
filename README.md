@@ -3,14 +3,14 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🎓 &nbsp; Graduated in system analysis and graphic design.
-- 🌱 &nbsp; Learning React and React Native.
+- :rocket: &nbsp; Learning React and React Native.
 
 <h3>🛠 Tech Stack</h3>
 
 - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Node.js | ReactJS
 - 🛢 &nbsp; MySQL | MongoDB | SQL Server
 - 🖥 &nbsp; Illustrator| Photoshop | InDesign
-- 🔧 &nbsp; Git | Vscode
+- 🔧 &nbsp; Git | Vscode | Linux
 
 <br/>
 
