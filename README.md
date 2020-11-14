@@ -9,7 +9,7 @@
 
 - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Node.js | ReactJS 
 - 🛢 &nbsp; MySQL | MongoDB | SQL Server
-- 🖥 &nbsp; Illustrator| Photoshop | InDesign
+- 🖥 &nbsp; Illustrator| Photoshop | InDesign | Figma
 - 🔧 &nbsp; Git | Vscode | Linux
 
 <br/>
