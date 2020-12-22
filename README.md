@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🎓 &nbsp; Graduated in system analysis and graphic design.
+- 🎓 &nbsp; Graduated in system analysis and design.
 - :rocket: &nbsp; Learning React, React Native and TypeScript
 
 <h3>🛠 Tech Stack</h3>
