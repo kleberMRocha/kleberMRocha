@@ -3,11 +3,11 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🎓 &nbsp; Graduated in system analysis and design.
-- :rocket: &nbsp; Learning React, React Native and TypeScript
+- :rocket: &nbsp; Learning Vue.Js, Next.Js
 
 <h3>🛠 Tech Stack</h3>
 
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Node.js | ReactJS | Php
+- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Node.js | ReactJS | TypeScript | Php
 - 🛢 &nbsp; MySQL | MongoDB | SQL Server
 - 🖥 &nbsp; Illustrator| Photoshop | InDesign | Figma
 - 🔧 &nbsp; Git | Vscode | Linux
