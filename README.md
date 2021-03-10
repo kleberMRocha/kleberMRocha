@@ -7,7 +7,7 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Node.js | ReactJS | VueJs | TypeScript | 
+- 🌐 &nbsp; HTML | CSS | JavaScript | Node.js | ReactJS | VueJs | TypeScript | 
 - 🛢 &nbsp; MySQL | MongoDB | SQL Server
 - 🖥 &nbsp; Illustrator| Photoshop | InDesign | Figma
 - 🔧 &nbsp; Git | Vscode | Linux
