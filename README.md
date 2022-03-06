@@ -3,7 +3,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🎓 &nbsp; Graduated in system analysis and design.
-- :rocket: &nbsp; Learning Vue.Js, Next.Js and Cypress.
+- :rocket: &nbsp; Learning Vue.Js 3, Next.Js and Unit test.
 
 <h3>🛠 Tech Stack</h3>
 
