@@ -8,7 +8,7 @@
 <h3>🛠 Tech Stack</h3>
 
 - 🌐 &nbsp; HTML | CSS | JavaScript | Node.js | ReactJS | React native | VueJs | TypeScript | Php
-- 🛢 &nbsp; MySQL | SQL Server
+- 🛢 &nbsp; MySQL | SQL Server | Postgresql
 - 🖥 &nbsp; Illustrator| Photoshop | InDesign | Figma
 - 🔧 &nbsp; Git | Vscode | Linux
 
