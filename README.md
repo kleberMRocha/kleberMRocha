@@ -3,14 +3,15 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🎓 &nbsp; Graduated in system analysis and design.
-- :rocket: &nbsp; Learning Php, postgresql
+- :rocket: &nbsp; Studying design patterns and solid principles 
 
 <h3>🛠 Tech Stack</h3>
 
-- 🌐 &nbsp; HTML | CSS | JavaScript | Node.js | ReactJS | React native | VueJs | TypeScript | Php
-- 🛢 &nbsp; MySQL | SQL Server | Postgresql
-- 🖥 &nbsp; Illustrator| Photoshop | InDesign | Figma
-- 🔧 &nbsp; Git | Vscode | Linux
+- 🧩 <b>Front-end</b>: HTML, Css, React native, ReactJS, VueJs, Knockout.js, (TypeScript, JavaScript), jquery;
+- ⚙  <b>Back-end</b>: Php, Node (TypeScript, JavaScript);
+- 🎨 <b>Design</b>: Illustrator, Photoshop, InDesign, Figma;
+- 🛢️ <b>Database</b>:  MySQL, SQL Server, Postgresql;
+- 🔧 &nbsp; Git, Linux, windows.
 
 <br/>
 
